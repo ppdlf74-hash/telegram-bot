@@ -1,0 +1,32 @@
+{
+    "7719104236": {
+        "allowed": false,
+        "status": "pending",
+        "balance": 0,
+        "ref_by": null,
+        "refs": [],
+        "casino": "\ud83e\udd8d Gorilla",
+        "email": "@takes",
+        "ai_access": false
+    },
+    "8500882657": {
+        "allowed": false,
+        "status": "new",
+        "balance": 0,
+        "ref_by": null,
+        "refs": [],
+        "casino": null,
+        "email": null,
+        "ai_access": false
+    },
+    "1155233211": {
+        "allowed": true,
+        "status": "new",
+        "balance": 0,
+        "ref_by": null,
+        "refs": [],
+        "casino": null,
+        "email": null,
+        "ai_access": true
+    }
+}
